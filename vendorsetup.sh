@@ -1,2 +1,1 @@
-add_lunch_combo validus_t0lte-userdebug
-add_lunch_combo validus_t0lte-eng
+add_lunch_combo du_t0lte-userdebug
